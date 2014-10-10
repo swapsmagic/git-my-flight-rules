@@ -1,6 +1,7 @@
 ## Git Flight Rules ##
 
  1. Resolving current Index
+	 
 	 Errors: 
 	  - needs merge
 	  - you need to resolve your current index first   
@@ -311,6 +312,7 @@
 
 
 	
+
 
 
 
